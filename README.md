@@ -1,2 +1,0 @@
-# jspactice
-Js Practice
